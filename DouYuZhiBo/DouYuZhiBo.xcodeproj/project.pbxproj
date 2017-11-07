@@ -97,8 +97,8 @@
 		821EA01C1FB1476300BD8989 /* DouYuZhiBo */ = {
 			isa = PBXGroup;
 			children = (
+				821EA04B1FB1481D00BD8989 /* Main */,
 				821EA01D1FB1476300BD8989 /* AppDelegate.swift */,
-				821EA01F1FB1476300BD8989 /* ViewController.swift */,
 				821EA0211FB1476300BD8989 /* Main.storyboard */,
 				821EA0241FB1476300BD8989 /* Assets.xcassets */,
 				821EA0261FB1476300BD8989 /* LaunchScreen.storyboard */,
@@ -123,6 +123,14 @@
 				821EA03F1FB1476300BD8989 /* Info.plist */,
 			);
 			path = DouYuZhiBoUITests;
+			sourceTree = "<group>";
+		};
+		821EA04B1FB1481D00BD8989 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				821EA01F1FB1476300BD8989 /* ViewController.swift */,
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
