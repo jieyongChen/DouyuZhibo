@@ -152,7 +152,6 @@
 				821EA05D1FB14CED00BD8989 /* Follow */,
 				821EA0611FB14CED00BD8989 /* Live */,
 				821EA0551FB14CEC00BD8989 /* Profile */,
-				821EA04C1FB14CEC00BD8989 /* Tools */,
 				821EA01D1FB1476300BD8989 /* AppDelegate.swift */,
 				821EA0241FB1476300BD8989 /* Assets.xcassets */,
 				821EA0291FB1476300BD8989 /* Info.plist */,
@@ -177,37 +176,6 @@
 				821EA03F1FB1476300BD8989 /* Info.plist */,
 			);
 			path = DouYuZhiBoUITests;
-			sourceTree = "<group>";
-		};
-		821EA04C1FB14CEC00BD8989 /* Tools */ = {
-			isa = PBXGroup;
-			children = (
-				821EA04D1FB14CEC00BD8989 /* Controller */,
-				821EA04E1FB14CEC00BD8989 /* Model */,
-				821EA04F1FB14CEC00BD8989 /* View */,
-			);
-			path = Tools;
-			sourceTree = "<group>";
-		};
-		821EA04D1FB14CEC00BD8989 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		821EA04E1FB14CEC00BD8989 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		821EA04F1FB14CEC00BD8989 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
 			sourceTree = "<group>";
 		};
 		821EA0501FB14CEC00BD8989 /* Main */ = {
