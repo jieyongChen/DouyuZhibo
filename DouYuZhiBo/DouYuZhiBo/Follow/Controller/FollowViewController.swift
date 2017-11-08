@@ -15,6 +15,4 @@ class FollowViewController: MainViewController {
 
         self.view.backgroundColor = UIColor.gray
     }
-
-
 }
